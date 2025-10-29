@@ -1,0 +1,203 @@
+[
+  {
+    "id": "v1",
+    "name": "Elite Caterers",
+    "category": "Catering",
+    "description": "Premium wedding & corporate catering with vegetarian, vegan, and multi-cuisine menus. Buffet and plated dinner specialists for 50-1000 guests.",
+    "city": "Mumbai",
+    "priceRange": [100000, 500000],
+    "rating": 4.7,
+    "tags": ["wedding", "buffet", "live counters"]
+  },
+  {
+    "id": "v2",
+    "name": "StageCraft Events",
+    "category": "Production",
+    "description": "Stage design and audio-visual production for concerts, conferences, and product launches. On-site load-in, projection mapping, and technical crew.",
+    "city": "Bengaluru",
+    "priceRange": [150000, 800000],
+    "rating": 4.5,
+    "tags": ["concert", "av", "lighting"]
+  },
+  {
+    "id": "v3",
+    "name": "Blossom & Vine Decor",
+    "category": "Decor",
+    "description": "Luxury floral and thematic decor for weddings and social events. Custom stage backdrops, aisle styling, and eco-friendly installations.",
+    "city": "Delhi",
+    "priceRange": [120000, 450000],
+    "rating": 4.8,
+    "tags": ["floral", "sustainable", "wedding"]
+  },
+  {
+    "id": "v4",
+    "name": "FlashFrame Studios",
+    "category": "Photography",
+    "description": "Photo and cinematic video teams for weddings, award nights, and brand launches. Drone, same-day edits, and live streaming packages.",
+    "city": "Mumbai",
+    "priceRange": [90000, 300000],
+    "rating": 4.6,
+    "tags": ["photo", "video", "drone"]
+  },
+  {
+    "id": "v5",
+    "name": "Groove Syndicate",
+    "category": "Entertainment",
+    "description": "Live bands and DJ collectives for corporate galas and private parties. Curated playlists, MC services, and multilingual hosts.",
+    "city": "Bengaluru",
+    "priceRange": [80000, 250000],
+    "rating": 4.4,
+    "tags": ["dj", "band", "corporate"]
+  },
+  {
+    "id": "v6",
+    "name": "Summit Conference Venues",
+    "category": "Venue",
+    "description": "Boutique conference spaces with hybrid-ready AV, breakout rooms, and on-site hospitality for 200-600 attendees.",
+    "city": "Hyderabad",
+    "priceRange": [180000, 600000],
+    "rating": 4.3,
+    "tags": ["conference", "hybrid", "corporate"]
+  },
+  {
+    "id": "v7",
+    "name": "Sparkle Event Rentals",
+    "category": "Logistics",
+    "description": "Furniture, staging, and lighting rentals with quick turnaround. Inventory for outdoor festivals, corporate offsides, and luxe weddings.",
+    "city": "Pune",
+    "priceRange": [70000, 200000],
+    "rating": 4.2,
+    "tags": ["rentals", "outdoor", "festival"]
+  },
+  {
+    "id": "v8",
+    "name": "Saffron Spoon",
+    "category": "Catering",
+    "description": "Modern Indian and global fusion catering with plated tasting menus, dessert bars, and premium beverage pairings.",
+    "city": "Delhi",
+    "priceRange": [150000, 550000],
+    "rating": 4.9,
+    "tags": ["fusion", "gourmet", "plated"]
+  },
+  {
+    "id": "v9",
+    "name": "UrbanBeat Productions",
+    "category": "Production",
+    "description": "Corporate townhalls, sales kickoffs, and virtual events with LED backdrops, motion graphics, and streaming control rooms.",
+    "city": "Mumbai",
+    "priceRange": [200000, 750000],
+    "rating": 4.5,
+    "tags": ["corporate", "hybrid", "av"]
+  },
+  {
+    "id": "v10",
+    "name": "CityLights Decor",
+    "category": "Decor",
+    "description": "Minimalist corporate decor, modular stage designs, and lighting installs for brand events and summits.",
+    "city": "Bengaluru",
+    "priceRange": [90000, 320000],
+    "rating": 4.1,
+    "tags": ["corporate", "lighting", "stage"]
+  },
+  {
+    "id": "v11",
+    "name": "CineMagic Weddings",
+    "category": "Photography",
+    "description": "Wedding storytelling with candid photo teams, cinematic films, and audio guestbooks. Travel-ready across India.",
+    "city": "Delhi",
+    "priceRange": [110000, 350000],
+    "rating": 4.8,
+    "tags": ["wedding", "cinematic", "travel"]
+  },
+  {
+    "id": "v12",
+    "name": "SoundWave DJs",
+    "category": "Entertainment",
+    "description": "DJ crew specializing in sangeet nights, cocktails, and product launches. Intelligent lighting and LED dance floors available.",
+    "city": "Hyderabad",
+    "priceRange": [60000, 180000],
+    "rating": 4.5,
+    "tags": ["dj", "lighting", "sangeet"]
+  },
+  {
+    "id": "v13",
+    "name": "EcoStage Solutions",
+    "category": "Production",
+    "description": "Sustainable stage fabrication, re-usable sets, and solar-powered lighting rigs for green-focused events.",
+    "city": "Pune",
+    "priceRange": [120000, 380000],
+    "rating": 4.4,
+    "tags": ["sustainable", "green", "stage"]
+  },
+  {
+    "id": "v14",
+    "name": "Royal Feast Caterers",
+    "category": "Catering",
+    "description": "Traditional regional cuisines, live tandoor counters, and premium buffet setups for grand weddings and festivals.",
+    "city": "Hyderabad",
+    "priceRange": [130000, 420000],
+    "rating": 4.6,
+    "tags": ["wedding", "buffet", "live counter"]
+  },
+  {
+    "id": "v15",
+    "name": "Aurora Lighting Co.",
+    "category": "Production",
+    "description": "Event lighting designers for concerts, theatre, and immersive experiences. Expertise in rigging, pixel mapping, and lasers.",
+    "city": "Delhi",
+    "priceRange": [160000, 520000],
+    "rating": 4.7,
+    "tags": ["lighting", "concert", "immersive"]
+  },
+  {
+    "id": "v16",
+    "name": "Hospitality Gurus",
+    "category": "Logistics",
+    "description": "Guest management, RSVP tracking, airport transfers, and VIP concierge desks for corporate summits and destination weddings.",
+    "city": "Mumbai",
+    "priceRange": [50000, 200000],
+    "rating": 4.3,
+    "tags": ["hospitality", "concierge", "destination"]
+  },
+  {
+    "id": "v17",
+    "name": "Skyline Drone Shows",
+    "category": "Entertainment",
+    "description": "Coordinated drone light shows for openings, anniversaries, and public celebrations. Custom formations and safety compliance.",
+    "city": "Delhi",
+    "priceRange": [250000, 900000],
+    "rating": 4.6,
+    "tags": ["drone", "spectacle", "launch"]
+  },
+  {
+    "id": "v18",
+    "name": "Palette Dessert Lab",
+    "category": "Catering",
+    "description": "Artisanal dessert studio offering plated desserts, experiential dessert bars, and edible branding for events.",
+    "city": "Pune",
+    "priceRange": [40000, 160000],
+    "rating": 4.5,
+    "tags": ["dessert", "branding", "experiential"]
+  },
+  {
+    "id": "v19",
+    "name": "Metro Moments Photo Booths",
+    "category": "Entertainment",
+    "description": "Interactive photo booths, 360-degree rigs, and instant print stations with branding overlays for expos and weddings.",
+    "city": "Mumbai",
+    "priceRange": [45000, 140000],
+    "rating": 4.2,
+    "tags": ["photo booth", "branding", "interactive"]
+  },
+  {
+    "id": "v20",
+    "name": "Convene Labs",
+    "category": "Production",
+    "description": "Corporate strategy summit specialists handling agenda design, speaker coaching, and executive broadcast production.",
+    "city": "Bengaluru",
+    "priceRange": [210000, 650000],
+    "rating": 4.5,
+    "tags": ["strategy", "broadcast", "corporate"]
+  }
+]
+
