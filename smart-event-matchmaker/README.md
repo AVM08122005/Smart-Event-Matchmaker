@@ -33,23 +33,7 @@ NEXT_PUBLIC_SITE_URL=http://localhost:3000
 - If no cache exists but OpenAI is configured, embeddings are computed on the fly and persisted with a log reminder.
 - When OpenAI is unavailable entirely, a deterministic keyword and signal-based scorer returns results so the demo always works.
 
-## How to deploy to Vercel
 
-1. Push this repo to GitHub with the provided commit structure.
-2. In Vercel, create a new project from the GitHub repo and select the default Next.js preset.
-3. (Optional) Add `OPENAI_API_KEY` under Project Settings → Environment Variables for richer matches.
-4. Deploy — Vercel will build and host the site automatically.
-
-## Demo video link
-
-Loom (60–90 seconds): _link pending_
-
-## Demo video script
-
-- 0–10s: “Hi Roma — I’m Achintya. I built a quick prototype called Smart Event Matchmaker to show how EventBazaar could use AI to connect planners with vendors.”
-- 10–40s: “Enter basic event details: type, budget, city and must-haves. Click ‘Find Vendors’. The app uses text embeddings to compare your event against vendor profiles and returns the top three matches with a confidence score and reason.”
-- 40–60s: “This is a demo. Next steps: integrate with EventBazaar’s vendor database, add user accounts, and build an admin panel to surface top vendors and performance metrics. If this looks interesting, I can adapt this prototype directly into EventBazaar’s platform.”
-- 60–90s: “Links: Live demo + GitHub in the message. Thanks for your time!”
 
 ## Scripts
 
@@ -74,7 +58,4 @@ export async function getVendorsCollection() {
 // const vendors = await (await getVendorsCollection()).find({}).limit(50).toArray();
 ```
 
-## Sample message to send
-
-“Hi Roma — thank you again for your time. I built a quick prototype inspired by EventBazaar: Smart Event Matchmaker. It recommends the best vendors for a given event using AI-based matching. Here’s the live demo: <LIVE_URL> and GitHub: <GITHUB_URL>. Would love your feedback and I can adapt this to EventBazaar’s real vendor dataset quickly.”
 
